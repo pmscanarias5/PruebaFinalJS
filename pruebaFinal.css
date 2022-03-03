@@ -1,0 +1,23 @@
+#cajaMapa{
+    display: flex;
+    justify-content: center;
+    height: 90%;
+}
+
+#mapa{
+    width: 80%;
+    height:100%
+}
+
+h1{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+body{
+    size: 100%;
+    
+}
